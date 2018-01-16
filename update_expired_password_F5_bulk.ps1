@@ -3,7 +3,7 @@ $userTemplate = "user_"
 $currentPassword = "password_current"
 $newPassword = "password_new"
 
-for ($i=31; $i -le 100; $i++)
+for ($i=1; $i -le 100; $i++)
 {
     $userName = "$userTemplate$i"
 
